@@ -22,7 +22,7 @@ Example:
 
 ### What works:
 
-- For the input of `[110, 222, 3333]` my program produces an output `The anwer is [222, 3333, 510]"`.
+- For the input of `[110, 222, 3333]` my program produces an output `The anwer is [222, 3333, 510]`.
 - I created a class named `SolvingQuestion` trying to separate logic to different methods.
 - I have individual methods for each step of the program.
 
